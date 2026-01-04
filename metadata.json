@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartMart: Offline Self-Billing",
+  "description": "A high-speed, offline-first retail self-billing app that eliminates checkout queues using QR/Barcode scanning and secure exit tokens.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
